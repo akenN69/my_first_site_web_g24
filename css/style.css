@@ -1,0 +1,57 @@
+.jumbotron{
+  background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-palette-generators-hero-509156f7.jpg");
+}
+h1, p{
+  color: white;
+}
+.card img{max-height:263px;
+}
+.card p{
+  color: black;
+}
+.card p{max-height: 308px}
+.fab fa-adobe{
+  font-size: 180px;
+}
+@media(min-width: 801px)
+{
+  body{
+    background-color: red;
+  }
+  p{
+    color: white;
+  }
+}
+@media(min-width: 601px) and (max-width: 800px)
+{
+  body{
+    background-color: yellow;
+  }
+  p{
+    color: black;
+    font-size: 200%;
+  }
+}
+@media(max-width: 600px)
+{
+  body{
+    background-color: green;
+  }
+  p{
+    color: yellow;
+    font-size: 100%;
+  }
+}
+.carousel img{
+
+height: 300px;
+}
+
+.carousel h2{
+
+  margin-bottom: 15vh;
+  font-size: 3em;
+}
+.carousel p{
+  font-size: 1em;
+}
